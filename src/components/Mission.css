@@ -1,0 +1,29 @@
+.mission-section {
+  background-color: white;
+  padding: 60px 50px;
+  text-align: center;
+}
+
+.mission-section h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.mission-section p {
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 0 auto 20px;
+  color: #666;
+}
+
+.explore-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 30px;
+}

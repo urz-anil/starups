@@ -1,0 +1,97 @@
+.mission-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 80px 50px;
+  gap: 40px;
+}
+
+.mission-content {
+  flex: 2;
+  padding-right: 40px;
+}
+
+.mission-content h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+  font-family: 'Poppins', sans-serif;
+}
+
+.mission-content p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  color: #666;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.8;
+}
+
+.how-it-works-card {
+  flex: 1;
+  background-color: white;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.how-it-works-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  color: #333;
+  font-family: 'Poppins', sans-serif;
+}
+
+.how-it-works-card p {
+  font-size: 1rem;
+  color: #666;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6;
+}
+
+.explore-btn {
+  background-color: #4285F4;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  transition: all 0.3s ease;
+}
+
+.explore-btn:hover {
+  background-color: #3367D6;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 1024px) {
+  .mission-container {
+    flex-direction: column;
+    padding: 60px 30px;
+  }
+  
+  .mission-content {
+    padding-right: 0;
+    margin-bottom: 40px;
+  }
+  
+  .how-it-works-card {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .mission-container {
+    padding: 50px 20px;
+  }
+  
+  .mission-content h2 {
+    font-size: 1.8rem;
+  }
+  
+  .how-it-works-card h3 {
+    font-size: 1.3rem;
+  }
+}

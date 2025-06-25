@@ -1,0 +1,15 @@
+/* Global styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Blue color scheme */
+:root {
+  --primary-blue: #4285F4;
+  --dark-blue: #3367D6;
+  --light-blue: #E8F0FE;
+}
+/* Add any global styles you want here */
