@@ -28,8 +28,7 @@ STARUPS is a comprehensive educational ecosystem designed to bridge the gap betw
 Our innovative STAR points system incentivizes continuous learning through project-based skill development and research contributions.
 
 ![STARUPS Platform Screenshot](![WhatsApp Image 2025-06-25 at 23 58 48_476e4ad5](https://github.com/user-attachments/assets/b4eeeb8e-d36b-41f5-9b56-7808219847d3)
-![WhatsApp Image 2025-06-25 at 23 58 48_476e4ad5](https://github.com/user-attachments/assets/b4eeeb8e-d36b-41f5-9b56-7808219847d3)
-  )
+!  )
 
 ## Key Features ✨
 
